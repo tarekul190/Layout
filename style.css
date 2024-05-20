@@ -1,0 +1,50 @@
+.header{
+  min-height:100px;
+
+  background-color: blue;
+  margin-top: 20px;  
+}
+.container{
+ overflow: hidden;
+ 
+}
+.blog{
+  width:50%;
+ height: 150px;
+ background-color: yellow;
+ float: left;
+ 
+}
+.contact{
+  width:50%;
+  height: 150px;
+  background-color:green; 
+  float: right;
+  
+}
+.ahad{
+  width:30%;
+  height: 150px;
+  margin: 24px;
+  float: left;
+}
+.item1{
+  
+  background-color:rgb(47, 0, 128); 
+  
+}
+.item2{
+  
+  background-color:rgb(128, 19, 0); 
+  }
+.item3{
+
+  background-color:rgb(128, 117, 0); }
+
+.footer{
+  background-color: crimson;
+  height: 100px;
+  
+  
+  
+}
